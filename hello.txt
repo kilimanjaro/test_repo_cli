@@ -1,7 +1,5 @@
 hello
 
-<<<<<<< HEAD
-hello_main
-=======
-hello_test_branch
->>>>>>> test
+
+hello_main_v1
+ 
